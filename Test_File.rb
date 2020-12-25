@@ -1,2 +1,2 @@
 time1 = Time.new
-puts "Current Time : "
+puts "Current Time : " + time1
