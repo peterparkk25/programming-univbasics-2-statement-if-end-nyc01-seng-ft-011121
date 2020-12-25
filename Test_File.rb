@@ -1,2 +1,3 @@
 time1 = Time.new
-puts "Current Time : " + time1
+puts "Current Time : " + datetime_select
+
