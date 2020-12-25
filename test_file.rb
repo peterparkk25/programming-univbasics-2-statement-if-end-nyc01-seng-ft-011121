@@ -1,2 +1,1 @@
-current_time = Time.now
-puts "(current_time)"
+2.6.1 :001 > Time.now
